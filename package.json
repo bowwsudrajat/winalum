@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.0",
+    "@types/bcryptjs": "^3.0.0",
+    "@types/jsonwebtoken": "^9.0.10",
+    "bcryptjs": "^3.0.2",
+    "bootstrap": "^5.3.7",
+    "jsonwebtoken": "^9.0.2",
+    "next-auth": "^4.24.11",
+    "react-bootstrap": "^2.10.10",
+    "react-hook-form": "^7.61.1",
+    "yup": "^1.6.1"
+  }
+}
